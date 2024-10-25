@@ -410,3 +410,8 @@ tm_shape(suitablemap_WLC_cl_recl)+
   tm_layout(frame=FALSE, legend.outside=TRUE, legend.title.size=0.5, legend.text.size=0.5)+
   tm_scale_bar(position=c("left","bottom"))+tm_compass(position=c("right","top"))
 
+
+
+matrx<-3*suitablemap_WLC_cl
+matrx
+
