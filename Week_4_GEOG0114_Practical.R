@@ -415,3 +415,6 @@ tm_shape(suitablemap_WLC_cl_recl)+
 matrx<-3*suitablemap_WLC_cl
 matrx
 
+matrixx<-matrx*2
+matrixx
+
